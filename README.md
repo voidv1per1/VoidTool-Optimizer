@@ -6,9 +6,6 @@ VoidTools Tweaker is a powerful Windows optimization script that enhances system
 
 > ⚠️ Important: This script must be run as Administrator to apply all optimizations correctly.
 
-
-
-
 ---
 
 🚀 Features
@@ -25,15 +22,13 @@ Cleans temporary files and junk
 
 Additional tools & modules included for power users
 
-
-
 ---
 
 📂 How to Use
 
 1. Download or Clone the Repository:
 
-git clone https://github.com/VoidV1per1/VoidTools-Tweaker.git
+git clone https://github.com/voidv1per1/VoidTool-Tweak
 
 
 2. Run as Administrator:
@@ -48,9 +43,6 @@ Follow the on-screen prompts
 
 3. The tweaks will apply automatically, and your system may restart for changes to take full effect.
 
-
-
-
 ---
 
 ⚙️ Requirements
@@ -58,7 +50,6 @@ Follow the on-screen prompts
 Windows 10 / 11
 
 Administrator privileges
-
 
 ---
 
