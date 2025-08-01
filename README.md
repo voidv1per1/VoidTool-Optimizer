@@ -28,12 +28,12 @@ Additional tools & modules included for power users
 
 1. Download or Clone the Repository:
 
-git clone https://github.com/voidv1per1/VoidTool-Tweak
+git clone https://github.com/voidv1per1/VoidTool-Optimizer
 
 
 2. Run as Administrator:
 
-Right-click on VoidTools_Tweaker.bat
+Right-click on VoidTools_Optimizer.bat
 
 Click "Run as Administrator"
 
