@@ -74,3 +74,8 @@ This tool is provided as-is without any warranty. Use at your own risk. The auth
 
 Developed with ❤️ by VoidV1per1
 Custom batch scripting & performance engineering.
+
+Donations they are very appreciated ❤️ 
+btc: bc1q3d4h48hp82c5c6nhdj4akn4unuygd8hn0v9dap
+eth: 0x0BC31255108FAd23D3787F0Ec264784a64530635
+ltc: ltc1qjh2wtwu4f59seepsxzxcx7pv6htg9jlzzqurrm
